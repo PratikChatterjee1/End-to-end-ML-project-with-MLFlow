@@ -1,0 +1,17 @@
+pandas
+notebook
+mlflow
+numpy
+sklearn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-pyYAML
+Flask
+Flask-cors
+-e . 
+#we need to install all the project template folders as my local package. He we use the command -e. 
+#It will look for the setup.py file
